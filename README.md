@@ -140,7 +140,7 @@ You have to modify [api.ts](https://github.com/bridgedxyz/github.surf/blob/main/
 
 - PWA Support
 - Enterprise account support (github enterprise)
-- Cusom extensions support
+- Custom extensions support
 - Mobile screen support
 - Remote cli & build support
 - More powerful Private repository experience
